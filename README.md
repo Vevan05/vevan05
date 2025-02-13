@@ -3,7 +3,7 @@
          height="45"
          width="45" /></h1>
 
-<div align = "left">
+<div align = "center">
 <img src = "https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611qry0han9a3pmcp8idv4bjsgvn904z66rcn4ngxcg&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
   alt = "Me Coding"
   width= "300"
