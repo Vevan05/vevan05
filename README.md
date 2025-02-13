@@ -3,8 +3,6 @@
          height="45"
          width="45" /></h1>
 
-# About me
-
 * 😄 Pronouns: He/Him
 * 🔭 I’m currently building a MERN Stack Project.
 * 🌱 I’m currently learning more about Machine Learning and Deep Learning.
