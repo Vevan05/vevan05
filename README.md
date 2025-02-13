@@ -11,6 +11,9 @@
   />
   </div>
 
+  <br/>
+
+## About Me
 * 😄 Pronouns: He/Him
 * 🔭 I’m currently building a MERN Stack Project.
 * 🌱 I’m currently learning more about Machine Learning and Deep Learning.
