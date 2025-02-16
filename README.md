@@ -44,3 +44,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vevan05&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+## My Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vevan05&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
