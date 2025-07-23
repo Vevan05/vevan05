@@ -52,8 +52,10 @@
 ![Apyori](https://img.shields.io/badge/apyori-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## My Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vevan05&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=vevan05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## My Contributions
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vevan05&theme=vue-dark&hide_border=true)
 
 ## My Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vevan05&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vevan05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
