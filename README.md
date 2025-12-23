@@ -17,7 +17,7 @@
 * 😄 Pronouns: He/Him
 * 🔭 I’m currently building a MERN Stack Project.
 * 🌱 I’m currently learning more about Machine Learning and Deep Learning.
-* 💬 Ask me about React or Python.
+* 💬 Ask me about DSA or Machine Learning.
 * 📫 How to reach me:
   <a href="mailto:vevanonarain@gmail.com"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" /></a> Email
 
