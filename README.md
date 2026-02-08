@@ -50,10 +50,3 @@
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-
-
-## My Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vevan05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## My Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vevan05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
